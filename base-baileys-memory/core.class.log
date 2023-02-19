@@ -1,0 +1,115 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094317570@s.whatsapp.net',
+    fromMe: false,
+    id: '7C7BFDBD3D8C66920ADE2DEFFAB86D91',
+    participant: undefined
+  },
+  messageTimestamp: 1676775386,
+  pushName: 'CICF',
+  message: Message {
+    conversation: 'Klk',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Klk',
+  from: '18094317570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094317570@s.whatsapp.net',
+    fromMe: false,
+    id: 'D15B5AE49BD331A9A1D96B7B5CE05841',
+    participant: undefined
+  },
+  messageTimestamp: 1676775389,
+  pushName: 'CICF',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'Aplicar a una vacante',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Aplicar a una vacante',
+  from: '18094317570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094317570@s.whatsapp.net',
+    fromMe: false,
+    id: '6DAC37AF6F22EEBBABF54DF36B7D6DF4',
+    participant: undefined
+  },
+  messageTimestamp: 1676775392,
+  pushName: 'CICF',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'Publicar vacante',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Publicar vacante',
+  from: '18094317570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094317570@s.whatsapp.net',
+    fromMe: false,
+    id: '7B23458B9697B9198CE4DE622B915610',
+    participant: undefined
+  },
+  messageTimestamp: 1676775397,
+  pushName: 'CICF',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'Publicar vacante',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Publicar vacante',
+  from: '18094317570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094317570@s.whatsapp.net',
+    fromMe: false,
+    id: 'E81912F8B89E60065E991D840F1F088D',
+    participant: undefined
+  },
+  messageTimestamp: 1676775409,
+  pushName: 'CICF',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'Aplicar a una vacante',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Aplicar a una vacante',
+  from: '18094317570'
+}
