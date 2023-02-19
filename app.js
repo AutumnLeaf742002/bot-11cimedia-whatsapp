@@ -6,8 +6,8 @@ const JsonFileAdapter = require('@bot-whatsapp/database/json')
 
 
 // Link aplicar vacante en el numeral
-const aplicar_vacante = addKeyword('Aplicar a una vacante').addAnswer('# url 1');
-const publicar_vacante = addKeyword('Publicar vacante').addAnswer('# url 2');
+const aplicar_vacante = addKeyword('Aplicar a una vacante').addAnswer('*Enlace para publicar vacantes* https://www.miempleord.com/p/formulario-para-publicar-puestos-de.html');
+const publicar_vacante = addKeyword('Publicar vacante').addAnswer('*Enlace para aplicar a las vacantes* https://www.miempleord.com/');
 const descargar_curriculum = addKeyword('Descargar curriculum').addAnswer('# url 3');
 const ver_vacantes = addKeyword('Ver vacantes de instagram').addAnswer('# url 4');
 
